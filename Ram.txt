@@ -2,4 +2,10 @@ Hello Ram !!
 I am Shyam.
 Yup...
 
+<<<<<<< HEAD
 I'm Branch SIT
+=======
+
+Hello Guyss,
+This is Rock
+>>>>>>> my_dev
